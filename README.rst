@@ -23,3 +23,8 @@ And update settings:
 
 ``github_ribbon_color`` = ("red" | "green" | "darkblue" | "orange" | "gray" | "white")
     The color of ribbont.  By default, `"red"`.
+
+Special Thanks
+--------------
+
+Members of Sphinx-users.jp!
